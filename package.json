@@ -1,0 +1,27 @@
+{
+  "name": "client-starter",
+  "version": "0.0.1",
+  "description": "Client starter for custom features used on Postclick client accounts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "glob": "^7.1.6",
+    "mini-css-extract-plugin": "^1.3.3",
+    "postcss": "^8.2.3",
+    "postcss-loader": "^4.1.0",
+    "sass": "^1.32.2",
+    "sass-loader": "^10.1.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.12.1",
+    "webpack-cli": "^4.3.1"
+  },
+  "dependencies": {}
+}
