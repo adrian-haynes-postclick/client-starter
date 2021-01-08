@@ -1,1 +1,1 @@
-console.log('inside js/script');
+alert('testing theme 2!');

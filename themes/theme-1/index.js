@@ -1,7 +1,3 @@
-console.log('test');
-
-helloWorld();
-
-function helloWorld() {
-  alert('hello cruel world');
-}
+import './src/css/header.css';
+import './src/css/styles.css';
+import './src/js/script.js';
