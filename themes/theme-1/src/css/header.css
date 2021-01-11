@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .sticky-header {
   position: fixed;
   top: 0;
@@ -8,4 +9,8 @@
   -webkit-box-shadow: 0px 9px 29px -1px rgba(197, 197, 221, 0.25);
   -moz-box-shadow: 0px 9px 29px -1px rgba(197, 197, 221, 0.25);
   box-shadow: 0px 9px 29px -1px rgba(197, 197, 221, 0.25);
+=======
+header {
+  background: black;
+>>>>>>> main
 }
