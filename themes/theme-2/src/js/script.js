@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // update height el on load
   updateBodyHeight(header, isMobile());
   // hey this is theme 2!
-  alert('This is theme 2! Hows it going?!');
+  alert('This is theme 2! Hey hey hey!');
 });
 
 function updateBodyHeight(el, isStickyBottom) {
