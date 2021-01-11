@@ -1,2 +1,2 @@
-header{background:#000}
-body{background:salmon}
+.sticky-header{position:fixed;top:0;width:100%;z-index:11000000;transform:translateX(-50%);left:50%;-webkit-box-shadow:0px 9px 29px -1px rgba(197,197,221,.25);-moz-box-shadow:0px 9px 29px -1px rgba(197,197,221,.25);box-shadow:0px 9px 29px -1px rgba(197,197,221,.25)}
+
