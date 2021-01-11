@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var header = window.__page_generator ? document.querySelector('.section') : document.querySelector('.page-block');
 
 header.classList.add('sticky-header');
@@ -49,6 +48,3 @@ function debounce(func, wait, immediate) {
     if (callNow) func.apply(context, args);
   };
 };
-=======
-alert('testing theme 1!');
->>>>>>> main
