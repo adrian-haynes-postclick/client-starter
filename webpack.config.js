@@ -10,7 +10,6 @@ module.exports = {
     return acc
   }, {}),
   mode: 'production',
-  watch: true,
   output: {
     filename: './[name]/main.js',
     path: path.resolve(__dirname, 'dist'),
